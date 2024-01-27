@@ -53,3 +53,4 @@ brews:
   - repository:
       owner: y-magavel
       name: homebrew-tap
+    folder: Formula
